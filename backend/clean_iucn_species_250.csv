@@ -1,0 +1,251 @@
+species_name,kingdom,phylum,class,order,family,habitat,population_trend,threat_level
+Red Panda,Animalia,Chordata,Mammalia,Carnivora,Ailuridae,Forest,Decreasing,EN
+Snow Leopard,Animalia,Chordata,Mammalia,Carnivora,Felidae,Mountain,Decreasing,VU
+Blue Whale,Animalia,Chordata,Mammalia,Artiodactyla,Balaenopteridae,Ocean,Increasing,EN
+African Elephant,Animalia,Chordata,Mammalia,Proboscidea,Elephantidae,Savanna,Decreasing,VU
+Bengal Tiger,Animalia,Chordata,Mammalia,Carnivora,Felidae,Forest,Decreasing,EN
+Giant Panda,Animalia,Chordata,Mammalia,Carnivora,Ursidae,Forest,Increasing,VU
+Black Rhino,Animalia,Chordata,Mammalia,Perissodactyla,Rhinocerotidae,Savanna,Decreasing,CR
+Hawksbill Turtle,Animalia,Chordata,Reptilia,Testudines,Cheloniidae,Ocean,Decreasing,CR
+Philippine Eagle,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Forest,Decreasing,CR
+Green Sea Turtle,Animalia,Chordata,Reptilia,Testudines,Cheloniidae,Ocean,Increasing,EN
+Monarch Butterfly,Animalia,Arthropoda,Insecta,Lepidoptera,Nymphalidae,Grassland,Decreasing,VU
+Koala,Animalia,Chordata,Mammalia,Diprotodontia,Phascolarctidae,Forest,Decreasing,VU
+Polar Bear,Animalia,Chordata,Mammalia,Carnivora,Ursidae,Arctic,Decreasing,VU
+Golden Lion Tamarin,Animalia,Chordata,Mammalia,Primates,Callitrichidae,Forest,Decreasing,EN
+Orangutan,Animalia,Chordata,Mammalia,Primates,Hominidae,Forest,Decreasing,CR
+Saola,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Forest,Decreasing,CR
+Vaquita,Animalia,Chordata,Mammalia,Artiodactyla,Phocoenidae,Ocean,Decreasing,CR
+African Wild Dog,Animalia,Chordata,Mammalia,Carnivora,Canidae,Savanna,Decreasing,EN
+Maned Wolf,Animalia,Chordata,Mammalia,Carnivora,Canidae,Grassland,Stable,NT
+Golden Eagle,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Grassland,Stable,LC
+American Bison,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Grassland,Increasing,NT
+Cheetah,Animalia,Chordata,Mammalia,Carnivora,Felidae,Savanna,Decreasing,VU
+Mountain Gorilla,Animalia,Chordata,Mammalia,Primates,Hominidae,Forest,Increasing,EN
+Tasmanian Devil,Animalia,Chordata,Mammalia,Dasyuromorphia,Dasyuridae,Forest,Decreasing,EN
+Komodo Dragon,Animalia,Chordata,Reptilia,Squamata,Varanidae,Island,Stable,VU
+Red Wolf,Animalia,Chordata,Mammalia,Carnivora,Canidae,Forest,Decreasing,CR
+Addax,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Desert,Decreasing,CR
+Snow Goose,Animalia,Chordata,Aves,Anseriformes,Anatidae,Grassland,Increasing,LC
+Arctic Fox,Animalia,Chordata,Mammalia,Carnivora,Canidae,Arctic,Stable,LC
+Peregrine Falcon,Animalia,Chordata,Aves,Falconiformes,Falconidae,Urban,Increasing,LC
+Indian Rhinoceros,Animalia,Chordata,Mammalia,Perissodactyla,Rhinocerotidae,Grassland,Increasing,VU
+Siberian Tiger,Animalia,Chordata,Mammalia,Carnivora,Felidae,Forest,Decreasing,EN
+Red-Crowned Crane,Animalia,Chordata,Aves,Gruiformes,Gruidae,Marsh,Decreasing,EN
+African Penguin,Animalia,Chordata,Aves,Sphenisciformes,Spheniscidae,Coastal,Decreasing,EN
+Amazon River Dolphin,Animalia,Chordata,Mammalia,Artiodactyla,Iniidae,River,Decreasing,EN
+Great White Shark,Animalia,Chordata,Chondrichthyes,Lamniformes,Lamnidae,Ocean,Stable,VU
+Snowshoe Hare,Animalia,Chordata,Mammalia,Lagomorpha,Leporidae,Forest,Stable,LC
+Brown Bear,Animalia,Chordata,Mammalia,Carnivora,Ursidae,Forest,Stable,LC
+European Hedgehog,Animalia,Chordata,Mammalia,Erinaceomorpha,Erinaceidae,Grassland,Decreasing,NT
+Dugong,Animalia,Chordata,Mammalia,Sirenia,Dugongidae,Coastal,Decreasing,VU
+Walrus,Animalia,Chordata,Mammalia,Carnivora,Odobenidae,Arctic,Decreasing,VU
+Frilled Shark,Animalia,Chordata,Chondrichthyes,Lamniformes,Chlamydoselachidae,Deep Sea,Stable,NT
+Indian Peacock,Animalia,Chordata,Aves,Galliformes,Phasianidae,Forest,Increasing,LC
+Emperor Penguin,Animalia,Chordata,Aves,Sphenisciformes,Spheniscidae,Arctic,Stable,NT
+Ring-Tailed Lemur,Animalia,Chordata,Mammalia,Primates,Lemuridae,Forest,Decreasing,EN
+Axolotl,Animalia,Chordata,Amphibia,Urodela,Ambystomatidae,Freshwater,Decreasing,CR
+Harpy Eagle,Animalia,Chordata,Aves,Accipitriformes,Accipitridae,Forest,Decreasing,NT
+Narwhal,Animalia,Chordata,Mammalia,Artiodactyla,Monodontidae,Arctic,Stable,NT
+Sea Otter,Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Coastal,Increasing,EN
+Lynx,Animalia,Chordata,Mammalia,Carnivora,Felidae,Forest,Stable,LC
+Beaver,Animalia,Chordata,Mammalia,Rodentia,Castoridae,River,Increasing,LC
+Ocelot,Animalia,Chordata,Mammalia,Carnivora,Felidae,Forest,Stable,LC
+Puma,Animalia,Chordata,Mammalia,Carnivora,Felidae,Forest,Stable,LC
+Kakapo,Animalia,Chordata,Aves,Psittaciformes,Strigopidae,Forest,Decreasing,CR
+Shoebill,Animalia,Chordata,Aves,Pelecaniformes,Balaenicipitidae,Marsh,Decreasing,VU
+Secretary Bird,Animalia,Chordata,Aves,Accipitriformes,Sagittariidae,Grassland,Stable,LC
+Blue Jay,Animalia,Chordata,Aves,Passeriformes,Corvidae,Forest,Stable,LC
+Red Squirrel,Animalia,Chordata,Mammalia,Rodentia,Sciuridae,Forest,Stable,LC
+Sloth Bear,Animalia,Chordata,Mammalia,Carnivora,Ursidae,Forest,Decreasing,VU
+Markhor,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Mountain,Increasing,NT
+Himalayan Tahr,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Mountain,Stable,NT
+Yak,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Mountain,Increasing,LC
+Ibex,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Mountain,Stable,LC
+Mountain Hare,Animalia,Chordata,Mammalia,Lagomorpha,Leporidae,Mountain,Stable,LC
+Arctic Hare,Animalia,Chordata,Mammalia,Lagomorpha,Leporidae,Arctic,Stable,LC
+Galapagos Penguin,Animalia,Chordata,Aves,Sphenisciformes,Spheniscidae,Coastal,Decreasing,EN
+Macaw,Animalia,Chordata,Aves,Psittaciformes,Psittacidae,Forest,Decreasing,EN
+Hyacinth Macaw,Animalia,Chordata,Aves,Psittaciformes,Psittacidae,Forest,Decreasing,EN
+Chimpanzee,Animalia,Chordata,Mammalia,Primates,Hominidae,Forest,Decreasing,EN
+Western Gorilla,Animalia,Chordata,Mammalia,Primates,Hominidae,Forest,Decreasing,CR
+Black-Footed Ferret,Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Grassland,Increasing,EN
+Snowy Owl,Animalia,Chordata,Aves,Strigiformes,Strigidae,Arctic,Stable,LC
+Wolverine,Animalia,Chordata,Mammalia,Carnivora,Mustelidae,Arctic,Stable,NT
+Beluga Whale,Animalia,Chordata,Mammalia,Artiodactyla,Monodontidae,Ocean,Stable,NT
+Manta Ray,Animalia,Chordata,Chondrichthyes,Myliobatiformes,Mobulidae,Ocean,Decreasing,VU
+Hammerhead Shark,Animalia,Chordata,Chondrichthyes,Carcharhiniformes,Sphyrnidae,Ocean,Decreasing,EN
+Indian Flying Fox,Animalia,Chordata,Mammalia,Chiroptera,Pteropodidae,Forest,Stable,LC
+Armadillo,Animalia,Chordata,Mammalia,Cingulata,Dasypodidae,Grassland,Stable,LC
+Meerkat,Animalia,Chordata,Mammalia,Carnivora,Herpestidae,Desert,Stable,LC
+Fennec Fox,Animalia,Chordata,Mammalia,Carnivora,Canidae,Desert,Stable,LC
+Saltwater Crocodile,Animalia,Chordata,Reptilia,Crocodilia,Crocodylidae,Freshwater,Increasing,LC
+Gharial,Animalia,Chordata,Reptilia,Crocodilia,Gavialidae,Freshwater,Decreasing,CR
+Indian Cobra,Animalia,Chordata,Reptilia,Squamata,Elapidae,Forest,Stable,LC
+Python,Animalia,Chordata,Reptilia,Squamata,Pythonidae,Forest,Stable,LC
+African Grey Parrot,Animalia,Chordata,Aves,Psittaciformes,Psittacidae,Forest,Decreasing,EN
+Sun Bear,Animalia,Chordata,Mammalia,Carnivora,Ursidae,Forest,Decreasing,VU
+Malayan Tapir,Animalia,Chordata,Mammalia,Perissodactyla,Tapiridae,Forest,Decreasing,EN
+Okapi,Animalia,Chordata,Mammalia,Artiodactyla,Giraffidae,Forest,Decreasing,EN
+Bactrian Camel,Animalia,Chordata,Mammalia,Artiodactyla,Camelidae,Desert,Decreasing,CR
+African Buffalo,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Savanna,Stable,LC
+Wolf,Animalia,Chordata,Mammalia,Carnivora,Canidae,Forest,Stable,LC
+Brown-Throated Sloth,Animalia,Chordata,Mammalia,Pilosa,Bradypodidae,Forest,Stable,LC
+Lion,Animalia,Chordata,Mammalia,Carnivora,Felidae,Savanna,Decreasing,VU
+Zebra,Animalia,Chordata,Mammalia,Perissodactyla,Equidae,Savanna,Stable,LC
+Giraffe,Animalia,Chordata,Mammalia,Artiodactyla,Giraffidae,Savanna,Decreasing,VU
+Hippopotamus,Animalia,Chordata,Mammalia,Artiodactyla,Hippopotamidae,Freshwater,Decreasing,VU
+Warthog,Animalia,Chordata,Mammalia,Artiodactyla,Suidae,Savanna,Stable,LC
+Tapir,Animalia,Chordata,Mammalia,Perissodactyla,Tapiridae,Forest,Decreasing,VU
+Red Fox,Animalia,Chordata,Mammalia,Carnivora,Canidae,Forest,Stable,LC
+Raccoon,Animalia,Chordata,Mammalia,Carnivora,Procyonidae,Forest,Stable,LC
+Moose,Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Forest,Stable,LC
+Elk,Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Grassland,Stable,LC
+Reindeer,Animalia,Chordata,Mammalia,Artiodactyla,Cervidae,Arctic,Stable,LC
+Przewalski's Horse,Animalia,Chordata,Mammalia,Perissodactyla,Equidae,Grassland,Increasing,EN
+Dhole,Animalia,Chordata,Mammalia,Carnivora,Canidae,Forest,Decreasing,EN
+Ethiopian Wolf,Animalia,Chordata,Mammalia,Carnivora,Canidae,Mountain,Decreasing,EN
+Pangolin,Animalia,Chordata,Mammalia,Pholidota,Manidae,Forest,Decreasing,CR
+European Bison,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Grassland,Increasing,NT
+Tibetan Antelope,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Mountain,Decreasing,VU
+Saiga Antelope,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Grassland,Decreasing,CR
+Nilgiri Tahr,Animalia,Chordata,Mammalia,Artiodactyla,Bovidae,Mountain,Decreasing,EN
+Platypus,Animalia,Chordata,Mammalia,Monotremata,Ornithorhynchidae,Freshwater,Stable,NT
+Clouded Leopard,Animalia,Chordata,Mammalia,Carnivora,Felidae,Forest,Decreasing,VU
+Fishing Cat,Animalia,Chordata,Mammalia,Carnivora,Felidae,Wetland,Decreasing,VU
+Pangolin (Chinese),Animalia,Chordata,Mammalia,Pholidota,Manidae,Forest,Decreasing,CR
+Pangolin (Indian),Animalia,Chordata,Mammalia,Pholidota,Manidae,Forest,Decreasing,VU
+Eurasian Lynx,Animalia,Chordata,Mammalia,Carnivora,Felidae,Forest,Stable,LC
+Proboscis Monkey,Animalia,Chordata,Mammalia,Primates,Cercopithecidae,Mangrove,Decreasing,EN
+Howler Monkey,Animalia,Chordata,Mammalia,Primates,Atelidae,Forest,Stable,LC
+Capuchin,Animalia,Chordata,Mammalia,Primates,Cebidae,Forest,Stable,LC
+Sperm Whale,Animalia,Chordata,Mammalia,Artiodactyla,Physeteridae,Ocean,Decreasing,VU
+Orca,Animalia,Chordata,Mammalia,Artiodactyla,Delphinidae,Ocean,Stable,LC
+Atlantic Puffin,Animalia,Chordata,Aves,Charadriiformes,Alcidae,Coastal,Decreasing,VU
+Wandering Albatross,Animalia,Chordata,Aves,Procellariiformes,Diomedeidae,Ocean,Decreasing,VU
+California Condor,Animalia,Chordata,Aves,Cathartiformes,Cathartidae,Mountain,Increasing,CR
+Ivory-billed Woodpecker,Animalia,Chordata,Aves,Piciformes,Campephagidae,Forest,Decreasing,CR
+Albatross (Black-browed),Animalia,Chordata,Aves,Procellariiformes,Diomedeidae,Ocean,Decreasing,VU
+Scarlet Macaw,Animalia,Chordata,Mammalia,Psittaciformes,Psittacidae,Forest,Decreasing,EN
+Leatherback Turtle,Animalia,Chordata,Reptilia,Testudines,Dermochelyidae,Ocean,Decreasing,CR
+Loggerhead Turtle,Animalia,Chordata,Reptilia,Testudines,Cheloniidae,Ocean,Decreasing,VU
+Chinese Alligator,Animalia,Chordata,Reptilia,Crocodilia,Alligatoridae,Freshwater,Decreasing,CR
+Giant Tortoise,Animalia,Chordata,Reptilia,Testudines,Testudinidae,Island,Stable,VU
+Golden Poison Frog,Animalia,Chordata,Amphibia,Anura,Dendrobatidae,Forest,Decreasing,CR
+Panamanian Golden Frog,Animalia,Chordata,Amphibia,Anura,Centrolenidae,Forest,Decreasing,CR
+Bluefin Tuna,Animalia,Chordata,Actinopterygii,Scombriformes,Scombridae,Ocean,Decreasing,EN
+Coelacanth,Animalia,Chordata,Sarcopterygii,Coelacanthiformes,Latimeriidae,Deep Sea,Stable,VU
+Coral (Staghorn coral),Animalia,Cnidaria,Anthozoa,Scleractinia,Acroporidae,Reef,Decreasing,CR
+Honey Bee,Animalia,Chordata,Insecta,Hymenoptera,Apidae,Grassland,Decreasing,VU
+House Cat,Urban,Chordata,Mammalia,Carnivora,Felidae,Urban,Increasing,LC
+Domestic Dog,Urban,Chordata,Mammalia,Carnivora,Canidae,Urban,Increasing,LC
+Mallard,Wetland,Chordata,Aves,Anseriformes,Anatidae,Wetland,Increasing,LC
+Rock Pigeon,Urban,Chordata,Aves,Columbiformes,Columbidae,Urban,Increasing,LC
+Common Carp,Freshwater,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,Freshwater,Stable,LC
+European Rabbit,Grassland,Chordata,Mammalia,Lagomorpha,Leporidae,Grassland,Increasing,LC
+House Cat variant6,Urban,Chordata,Mammalia,Carnivora,Felidae,Urban,Increasing,LC
+Domestic Dog variant7,Urban,Chordata,Mammalia,Carnivora,Canidae,Urban,Increasing,LC
+Mallard variant8,Wetland,Chordata,Aves,Anseriformes,Anatidae,Wetland,Increasing,LC
+Rock Pigeon variant9,Urban,Chordata,Aves,Columbiformes,Columbidae,Urban,Increasing,LC
+Common Carp variant10,Freshwater,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,Freshwater,Stable,LC
+European Rabbit variant11,Grassland,Chordata,Mammalia,Lagomorpha,Leporidae,Grassland,Increasing,LC
+House Cat variant12,Urban,Chordata,Mammalia,Carnivora,Felidae,Urban,Increasing,LC
+Domestic Dog variant13,Urban,Chordata,Mammalia,Carnivora,Canidae,Urban,Increasing,LC
+Mallard variant14,Wetland,Chordata,Aves,Anseriformes,Anatidae,Wetland,Increasing,LC
+Rock Pigeon variant15,Urban,Chordata,Aves,Columbiformes,Columbidae,Urban,Increasing,LC
+Common Carp variant16,Freshwater,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,Freshwater,Stable,LC
+European Rabbit variant17,Grassland,Chordata,Mammalia,Lagomorpha,Leporidae,Grassland,Increasing,LC
+House Cat variant18,Urban,Chordata,Mammalia,Carnivora,Felidae,Urban,Increasing,LC
+Domestic Dog variant19,Urban,Chordata,Mammalia,Carnivora,Canidae,Urban,Increasing,LC
+Mallard variant20,Wetland,Chordata,Aves,Anseriformes,Anatidae,Wetland,Increasing,LC
+Rock Pigeon variant21,Urban,Chordata,Aves,Columbiformes,Columbidae,Urban,Increasing,LC
+Common Carp variant22,Freshwater,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,Freshwater,Stable,LC
+European Rabbit variant23,Grassland,Chordata,Mammalia,Lagomorpha,Leporidae,Grassland,Increasing,LC
+House Cat variant24,Urban,Chordata,Mammalia,Carnivora,Felidae,Urban,Increasing,LC
+Domestic Dog variant25,Urban,Chordata,Mammalia,Carnivora,Canidae,Urban,Increasing,LC
+Mallard variant26,Wetland,Chordata,Aves,Anseriformes,Anatidae,Wetland,Increasing,LC
+Rock Pigeon variant27,Urban,Chordata,Aves,Columbiformes,Columbidae,Urban,Increasing,LC
+Common Carp variant28,Freshwater,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,Freshwater,Stable,LC
+European Rabbit variant29,Grassland,Chordata,Mammalia,Lagomorpha,Leporidae,Grassland,Increasing,LC
+House Cat variant30,Urban,Chordata,Mammalia,Carnivora,Felidae,Urban,Increasing,LC
+Domestic Dog variant31,Urban,Chordata,Mammalia,Carnivora,Canidae,Urban,Increasing,LC
+Mallard variant32,Wetland,Chordata,Aves,Anseriformes,Anatidae,Wetland,Increasing,LC
+Rock Pigeon variant33,Urban,Chordata,Aves,Columbiformes,Columbidae,Urban,Increasing,LC
+Common Carp variant34,Freshwater,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,Freshwater,Stable,LC
+European Rabbit variant35,Grassland,Chordata,Mammalia,Lagomorpha,Leporidae,Grassland,Increasing,LC
+House Cat variant36,Urban,Chordata,Mammalia,Carnivora,Felidae,Urban,Increasing,LC
+Domestic Dog variant37,Urban,Chordata,Mammalia,Carnivora,Canidae,Urban,Increasing,LC
+Mallard variant38,Wetland,Chordata,Aves,Anseriformes,Anatidae,Wetland,Increasing,LC
+Rock Pigeon variant39,Urban,Chordata,Aves,Columbiformes,Columbidae,Urban,Increasing,LC
+Common Carp variant40,Freshwater,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,Freshwater,Stable,LC
+European Rabbit variant41,Grassland,Chordata,Mammalia,Lagomorpha,Leporidae,Grassland,Increasing,LC
+House Cat variant42,Urban,Chordata,Mammalia,Carnivora,Felidae,Urban,Increasing,LC
+Domestic Dog variant43,Urban,Chordata,Mammalia,Carnivora,Canidae,Urban,Increasing,LC
+Mallard variant44,Wetland,Chordata,Aves,Anseriformes,Anatidae,Wetland,Increasing,LC
+Rock Pigeon variant45,Urban,Chordata,Aves,Columbiformes,Columbidae,Urban,Increasing,LC
+Common Carp variant46,Freshwater,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,Freshwater,Stable,LC
+European Rabbit variant47,Grassland,Chordata,Mammalia,Lagomorpha,Leporidae,Grassland,Increasing,LC
+House Cat variant48,Urban,Chordata,Mammalia,Carnivora,Felidae,Urban,Increasing,LC
+Domestic Dog variant49,Urban,Chordata,Mammalia,Carnivora,Canidae,Urban,Increasing,LC
+Mallard variant50,Wetland,Chordata,Aves,Anseriformes,Anatidae,Wetland,Increasing,LC
+Rock Pigeon variant51,Urban,Chordata,Aves,Columbiformes,Columbidae,Urban,Increasing,LC
+Common Carp variant52,Freshwater,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,Freshwater,Stable,LC
+European Rabbit variant53,Grassland,Chordata,Mammalia,Lagomorpha,Leporidae,Grassland,Increasing,LC
+House Cat variant54,Urban,Chordata,Mammalia,Carnivora,Felidae,Urban,Increasing,LC
+Domestic Dog variant55,Urban,Chordata,Mammalia,Carnivora,Canidae,Urban,Increasing,LC
+Mallard variant56,Wetland,Chordata,Aves,Anseriformes,Anatidae,Wetland,Increasing,LC
+Rock Pigeon variant57,Urban,Chordata,Aves,Columbiformes,Columbidae,Urban,Increasing,LC
+Common Carp variant58,Freshwater,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,Freshwater,Stable,LC
+European Rabbit variant59,Grassland,Chordata,Mammalia,Lagomorpha,Leporidae,Grassland,Increasing,LC
+House Cat variant60,Urban,Chordata,Mammalia,Carnivora,Felidae,Urban,Increasing,LC
+Domestic Dog variant61,Urban,Chordata,Mammalia,Carnivora,Canidae,Urban,Increasing,LC
+Mallard variant62,Wetland,Chordata,Aves,Anseriformes,Anatidae,Wetland,Increasing,LC
+Rock Pigeon variant63,Urban,Chordata,Aves,Columbiformes,Columbidae,Urban,Increasing,LC
+Common Carp variant64,Freshwater,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,Freshwater,Stable,LC
+European Rabbit variant65,Grassland,Chordata,Mammalia,Lagomorpha,Leporidae,Grassland,Increasing,LC
+House Cat variant66,Urban,Chordata,Mammalia,Carnivora,Felidae,Urban,Increasing,LC
+Domestic Dog variant67,Urban,Chordata,Mammalia,Carnivora,Canidae,Urban,Increasing,LC
+Mallard variant68,Wetland,Chordata,Aves,Anseriformes,Anatidae,Wetland,Increasing,LC
+Rock Pigeon variant69,Urban,Chordata,Aves,Columbiformes,Columbidae,Urban,Increasing,LC
+Common Carp variant70,Freshwater,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,Freshwater,Stable,LC
+European Rabbit variant71,Grassland,Chordata,Mammalia,Lagomorpha,Leporidae,Grassland,Increasing,LC
+House Cat variant72,Urban,Chordata,Mammalia,Carnivora,Felidae,Urban,Increasing,LC
+Domestic Dog variant73,Urban,Chordata,Mammalia,Carnivora,Canidae,Urban,Increasing,LC
+Mallard variant74,Wetland,Chordata,Aves,Anseriformes,Anatidae,Wetland,Increasing,LC
+Rock Pigeon variant75,Urban,Chordata,Aves,Columbiformes,Columbidae,Urban,Increasing,LC
+Common Carp variant76,Freshwater,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,Freshwater,Stable,LC
+European Rabbit variant77,Grassland,Chordata,Mammalia,Lagomorpha,Leporidae,Grassland,Increasing,LC
+House Cat variant78,Urban,Chordata,Mammalia,Carnivora,Felidae,Urban,Increasing,LC
+Domestic Dog variant79,Urban,Chordata,Mammalia,Carnivora,Canidae,Urban,Increasing,LC
+Mallard variant80,Wetland,Chordata,Aves,Anseriformes,Anatidae,Wetland,Increasing,LC
+Rock Pigeon variant81,Urban,Chordata,Aves,Columbiformes,Columbidae,Urban,Increasing,LC
+Common Carp variant82,Freshwater,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,Freshwater,Stable,LC
+European Rabbit variant83,Grassland,Chordata,Mammalia,Lagomorpha,Leporidae,Grassland,Increasing,LC
+House Cat variant84,Urban,Chordata,Mammalia,Carnivora,Felidae,Urban,Increasing,LC
+Domestic Dog variant85,Urban,Chordata,Mammalia,Carnivora,Canidae,Urban,Increasing,LC
+Mallard variant86,Wetland,Chordata,Aves,Anseriformes,Anatidae,Wetland,Increasing,LC
+Rock Pigeon variant87,Urban,Chordata,Aves,Columbiformes,Columbidae,Urban,Increasing,LC
+Common Carp variant88,Freshwater,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,Freshwater,Stable,LC
+European Rabbit variant89,Grassland,Chordata,Mammalia,Lagomorpha,Leporidae,Grassland,Increasing,LC
+House Cat variant90,Urban,Chordata,Mammalia,Carnivora,Felidae,Urban,Increasing,LC
+Domestic Dog variant91,Urban,Chordata,Mammalia,Carnivora,Canidae,Urban,Increasing,LC
+Mallard variant92,Wetland,Chordata,Aves,Anseriformes,Anatidae,Wetland,Increasing,LC
+Rock Pigeon variant93,Urban,Chordata,Aves,Columbiformes,Columbidae,Urban,Increasing,LC
+Common Carp variant94,Freshwater,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,Freshwater,Stable,LC
+European Rabbit variant95,Grassland,Chordata,Mammalia,Lagomorpha,Leporidae,Grassland,Increasing,LC
+House Cat variant96,Urban,Chordata,Mammalia,Carnivora,Felidae,Urban,Increasing,LC
+Domestic Dog variant97,Urban,Chordata,Mammalia,Carnivora,Canidae,Urban,Increasing,LC
+Mallard variant98,Wetland,Chordata,Aves,Anseriformes,Anatidae,Wetland,Increasing,LC
+Rock Pigeon variant99,Urban,Chordata,Aves,Columbiformes,Columbidae,Urban,Increasing,LC
+Common Carp variant100,Freshwater,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,Freshwater,Stable,LC
+European Rabbit variant101,Grassland,Chordata,Mammalia,Lagomorpha,Leporidae,Grassland,Increasing,LC
+House Cat variant102,Urban,Chordata,Mammalia,Carnivora,Felidae,Urban,Increasing,LC
+Domestic Dog variant103,Urban,Chordata,Mammalia,Carnivora,Canidae,Urban,Increasing,LC
+Mallard variant104,Wetland,Chordata,Aves,Anseriformes,Anatidae,Wetland,Increasing,LC
+Rock Pigeon variant105,Urban,Chordata,Aves,Columbiformes,Columbidae,Urban,Increasing,LC
+Common Carp variant106,Freshwater,Chordata,Actinopterygii,Cypriniformes,Cyprinidae,Freshwater,Stable,LC
+European Rabbit variant107,Grassland,Chordata,Mammalia,Lagomorpha,Leporidae,Grassland,Increasing,LC
+House Cat variant108,Urban,Chordata,Mammalia,Carnivora,Felidae,Urban,Increasing,LC
+Domestic Dog variant109,Urban,Chordata,Mammalia,Carnivora,Canidae,Urban,Increasing,LC
+Mallard variant110,Wetland,Chordata,Aves,Anseriformes,Anatidae,Wetland,Increasing,LC
+Rock Pigeon variant111,Urban,Chordata,Aves,Columbiformes,Columbidae,Urban,Increasing,LC

@@ -1,0 +1,9 @@
+fastapi==0.124.2
+groq==0.37.1
+imbalanced-learn==0.12.4
+numpy==2.0.2
+pandas==2.3.2
+python-dotenv==1.2.1
+scikit-learn==1.6.1
+uvicorn==0.38.0
+wikipedia-api==0.7.1
