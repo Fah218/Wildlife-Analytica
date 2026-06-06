@@ -105,8 +105,12 @@ wiki = wikipediaapi.Wikipedia(language="en", user_agent="WildlifeProject/1.0")
 tfidf = TfidfVectorizer(stop_words="english")
 
 def get_wiki_text(species):
-    page = wiki.page(species)
-    return page.text if page.exists() else ""
+    try:
+        page = wiki.page(species)
+        return page.text if page.exists() else ""
+    except Exception as e:
+        print(f"Wikipedia fetch error for {species}: {e}")
+        return ""
 
 def split_sentences(text):
     return [s.strip() for s in re.split(r"(?<=[.?!])\s+", text) if len(s.strip()) > 20]
